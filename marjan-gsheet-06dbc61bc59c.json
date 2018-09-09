@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "marjan-gsheet",
+  "private_key_id": "06dbc61bc59ca684cece538d164c8e13f29c2721",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7rHquFq6dwzYU\nOgD2xtR/bM8anw9R2ftZ8tE8stbnj+tpt6cYKx8fsBXmwifooQ67t8UlY2CX8adb\nP8cl4onEw+nST4uCraUYTSDDN9dE+D0Uvqm64vOzCiNoQybL0MQw7UpVUoWqT4ot\nlDFKZBAMUB9iYj55CToR4MX8SWGwASVgKjUjA+/xGEygLcoOwKznsgg+DB2VP/Ts\ntK95iQ/O+T8GKEYSXVpR53okg0cMc/nxDH5od5lBBDWylCNZ+grXQJ91sigHGSGj\nm5D+7uzFFEEOYikAFshzmH/VIjy5hYeRez9aCIBhlfvoezMVWw6bIIVG4xqsgsPA\n9AZbE1xJAgMBAAECggEAHrNzikEZpaNGmH54o+YY4xOIucElf21aafeH9RcIgu8P\nQscRZanAOK3Ul2BRqQOX5muEq74bEiAtEYdYa8EoanDmMkpi9yiy5kvPvT/ITncR\nfvBF0dXIqhRRgH/ju9nWDm7zBwwt45OJdjVU7ud5nJoK2ExcDe7Nehk8Ki5S9bii\njJ4DakgOPF3UDo/2s4JHVz+PdvFv6qndLvDYlKl1z3cns7OFOknLt48yANwy4Mf4\nMV/5FV2MvoX6g+1jSmzx29mVIaTugqv5EViYUGzrp/3cN79Y/eTeY0kueHCXc99e\nIYL1p7kwDAAwbKMKKLbd5v5TxxuDO6sagy/dSV4YEQKBgQDehBgY7arRm0ETUbY1\ncy8n8byk4AFlEV5DmP8A7TYvpfCgxtEffU5UlAdrJimQdznD9aHJNXkUlVc4p1oI\n4eETY3dHpQKIPzto7Gc1pPzOlJFMrCSnPq8P0C6kYcgLJBiGJcpb8oIYLGIe29P1\n++3hRyksJis//JXVp+i1e3CZDQKBgQDX6itfa0EVoi2nR+yHzC9uPWetSGL0ZlNP\nQ2BN4FnKAMBuCllZZmZYcqkTvniSAHHlViyvSwxpr7Gk0MZoUSuPolCdS7rRxIL3\nUS4oFYE4E2Q32Xmvw2oN+dbwfxlXtNSEqLjP2wdIu0xBy+JRkadIRCEd7EY7mu2q\nfcERFsMJLQKBgHtjOk2QdPl4IvTIicZH0e1PcfDnOj7GC8RmMXldEIAJf05YERxq\nCqaB0z9KUSAHzONp8MW3PiX4zf3fZuCoCHwM2tbCnI3aqmH7PRwVGg6feZbPmh+X\nddHJ+iMzCY+L+4FfsT+dUSCAdARyl62+fmE+aYlOvQrlUFzCmBsSkRR9AoGBAJH6\nY4qmxCExPfaMXTHO7f51i6QPfb/JcufzIKhmV66IZZHAc3pLDkUceI29yFzF6jto\n0NtPPTwzKkLJWGts/aulzSUb71olp3o4q6E0MOJN0gMkiO45i3mZgiWleOfgfZKX\nVCRL7JfS8hLGGuSVOmlUjqNhfHaOH8OWNDMulXydAoGAOwclHH71giq+NyIOSdGX\nmrDKzSE5bv7tdCPvSHI2Ve5f7RGsRcKP8duoVykpRiDymVmCyBUGd0P6SuuvMFal\nx+IJSf/2EohJB/z2yGCZjKC1LhJScG98NX3qBazO9QiySFRZO3pGuNsxzBjaAEXZ\n2S9kUE5DItnxmdrhu6MyO6A=\n-----END PRIVATE KEY-----\n",
+  "client_email": "read-spread-sheet@marjan-gsheet.iam.gserviceaccount.com",
+  "client_id": "106175841534864656439",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/read-spread-sheet%40marjan-gsheet.iam.gserviceaccount.com"
+}

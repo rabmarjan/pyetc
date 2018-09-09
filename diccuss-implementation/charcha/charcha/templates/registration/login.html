@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% load bootstrap %}
+{% load static %}
+{% block content %}
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-4 col-sm-6">
+
+<h2>Login</h2>
+<form method="post" action="{% url 'login' %}">
+  {% csrf_token %}
+  <input type="hidden" name="next" value="/" />
+
+  {{ form|bootstrap }}
+  <button type="submit" class="btn btn-default">Login</button>
+  
+</form>
+
+<hr/>
+
+<div>
+    <a href="/login/google-oauth2/"><img width="300" src="{% static "login-google.png" %}"/></a>
+</div>
+
+
+</div></div>
+</div>
+{% endblock %}

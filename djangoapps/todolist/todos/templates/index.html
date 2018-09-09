@@ -1,0 +1,28 @@
+{% include "partials/header.html" %}
+
+<table class="table table-bordered">
+    <thead>
+    <tr>
+        <th>Title</th>
+        <th>ID</th>
+        <th>Text</th>
+        <th>Created</th>
+        <th>Action</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr {%for todo in todos%}>
+        <td><a href="/todos/details/{{todo.id}}">{{todo.title}} </a></td>
+        <td>{{todo.id}}</td>
+        <td>{{todo.text}}</td>
+        <td>{{todo.created_at}}</td>
+        <td><a href="/todos/delete/{{todo.id}}"><button>{{todo.id}}</button></a></td>
+    </tr>
+    {%endfor%}
+    </tbody>
+</table>
+
+<button><a href="/todos/pdf/">Get PDF </a></button>
+
+<hr>
+{% include "partials/footer.html" %}

@@ -1,0 +1,173 @@
+[
+    {
+        "Header": {
+            "type": "Must have a title/header",
+            "description": "Data List/Table",
+            "applications": [
+                ""
+            ]
+        }
+    },
+    {
+        "Pagination": {
+            "type": "Must have a size selector",
+            "description": "",
+            "applications": [
+                ""
+            ]
+        }
+    },
+    {
+        "Pagination": {
+            "type": "Must show item count and item range visible",
+            "description": "",
+            "applications": [
+                ""
+            ]
+        }
+    },
+    {
+        "Footer": {
+            "type": "Must have a size selector",
+            "description": "Data List/Table",
+            "applications": [
+                ""
+            ]
+        }
+    },
+    {
+        "": {
+            "type": "Must show item count and item range visible",
+            "description": "",
+            "applications": [
+                ""
+            ]
+        }
+    },
+    {
+        "Pagination": {
+            "type": "Must be in header",
+            "description": "Data List/Table",
+            "applications": [
+                ""
+            ]
+        }
+    },
+    {
+        "": {
+            "type": "Must be in Footer",
+            "description": "",
+            "applications": [
+                ""
+            ]
+        }
+    },
+    {
+        "Size Selection": {
+            "type": "Must be in header/footer",
+            "description": "Data List/Table",
+            "applications": [
+                ""
+            ]
+        }
+    },
+    {
+        "Scrolling": {
+            "type": "Horizontal scrolling should be avoided",
+            "description": "Data List/Table",
+            "applications": [
+                ""
+            ]
+        }
+    },
+    {
+        "Filtering": {
+            "type": "Should filter by any part of the content",
+            "description": "Data List/Table",
+            "applications": [
+                ""
+            ]
+        }
+    },
+    {
+        "Colors": {
+            "type": "Remain with white, black and gray, use color very carefully and sparsely",
+            "description": "Data List/Table",
+            "applications": [
+                ""
+            ]
+        }
+    },
+    {
+        "Searching": {
+            "type": "",
+            "description": "Data List/Table",
+            "applications": [
+                ""
+            ]
+        }
+    },
+    {
+        "Sorting": {
+            "type": "Do not allow sort on columns like description, notes, remarks etc.",
+            "description": "Data List/Table",
+            "applications": [
+                ""
+            ]
+        }
+    },
+    {
+        "Fonts": {
+            "type": "Always use Sans-serif web fonts",
+            "description": "Data List/Table",
+            "applications": [
+                ""
+            ]
+        }
+    },
+    {
+        "Spacing": {
+            "type": "Try to keep all row height same",
+            "description": "Data List/Table",
+            "applications": [
+                ""
+            ]
+        }
+    },
+    {
+        "Action": {
+            "type": "Any action must have confirmation",
+            "description": "Data List/Table",
+            "applications": [
+                ""
+            ]
+        }
+    },
+    {
+        "Selection": {
+            "type": "",
+            "description": "Data List/Table",
+            "applications": [
+                ""
+            ]
+        }
+    },
+    {
+        "General": {
+            "type": "A table list, may have alternate views based on specific column like grouping view by a column etc.",
+            "description": "Data List/Table",
+            "applications": [
+                ""
+            ]
+        }
+    },
+    {
+        "": {
+            "type": "",
+            "description": "Data List/Table",
+            "applications": [
+                ""
+            ]
+        }
+    }
+]

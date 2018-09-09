@@ -1,0 +1,8 @@
+{% include "partials/header.html" %}
+<h3>Hello Marjan the loser {{todos.id}} -- {{email}}</h3>
+<ul>
+    {%for todo in todos%}
+    <li><a href="/todos/details/{{todo.id}}">{{todo.title}} </a>:{{todo.id}} : {{todo.text}} : {{todo.created_at}}</li>
+    {%endfor%}
+</ul>
+{% include "partials/footer.html" %}
